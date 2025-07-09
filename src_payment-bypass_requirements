@@ -1,0 +1,6 @@
+requests
+pyOpenSSL
+cryptography
+scapy
+frida
+mitmproxy
